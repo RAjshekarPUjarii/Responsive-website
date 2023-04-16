@@ -1,5 +1,5 @@
 # Responsive-website
 ---
-## This project build using html css 
-### it is responsive, please see or go to below link 
+## This project is build using html css.. 
+---
 [Mini-Reponsive](https://rajshekarpujarii.github.io/Responsive-website/ "LIVE URL")
