@@ -1,4 +1,4 @@
-# Responsive-website
+# Responsive-website (using Media query)
 ---
 ## This project is build using html css.. 
 ---
